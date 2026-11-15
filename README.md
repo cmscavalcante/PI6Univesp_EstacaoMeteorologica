@@ -13,8 +13,7 @@ Repositório do projeto EstacaoMeteorologica para o PI-6 da Univesp 2026-02
 
 
 
-> Este é o repositório do Projeto Integrador V da Univesp, elaborado por Carlos A. L. da Silva, Carlos M. S. Cavalcante, Emerson N. Silva, Reinaldo F. Almeida Jr., Geisian S. Reis, José M. S. Lima, Luis H. P. M. Oliveira, Marcus V. A. Rocha
-
+> Este é o repositório do Projeto Integrador V da Univesp, elaborado por Alberto Ferreira Borges de Gouveia, Ana Beatriz Guedes Gomes, Carlos Magno da Silva Cavalcante, Emerson Nunes Silva, José Mauricio Da Silva Lima, Luis Henrique Ponciano Marques de Oliveira, Luiz Antônio Lazoti e Sandra Camargo.
 ### Objetivo
 
 Desenvolver um dispositivo de baixo custo e facilmente replicável para calibração de um anemômetro fabricado em impressão 3D, utilizando um microcontrolador ESP32, capaz de coletar dados de frequência de rotação do anemômetro e velocidade aplicada durante os testes para determinar sua função de transferência.
